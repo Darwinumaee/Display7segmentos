@@ -1,0 +1,78 @@
+[PROJECT]
+Target=EjemploDisplay.hex
+Processor_Text=PIC16F887
+CCSVersion=5.119d
+Compiler=PCM
+Development_Mode=
+ToolSuite=CCS
+[Target Data]
+FileList=EjemploDisplay.c
+BuildTool=C-COMPILER
+OptionString=+FM
+AdditionalOptionString=
+BuildRequired=1
+[EjemploDisplay.c]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+[mru-list]
+1=EjemploDisplay.c
+[Units]
+Count=1
+1=EjemploDisplay
+Link=0
+
+[defines]
+buildcount=1
+enabled=0
+chip=1
+D1=
+V1=
+
+[Opened Files]
+1=EjemploDisplay.c
+t1=1
+Count=1
+
+[ProjectLog]
+Days=1
+D1=01-02-2025
+D1_L=4
+D1_L1=[35659]Stopped Editing.
+TotalEdit=11
+TotalDebug=0
+D1_E=11
+D1_D=0
+D1_L2=[35665]Project Closed.
+D1_L3=[35665]Project Opened.
+D1_L4=[36726]Project Closed.
+
+[fileformats]
+forcecoff=0
+debug=4
+error=2
+object=0
+list=0
+scratch=0
+sta=1
+tre=1
+expandtree=0
+allerrors=1
+allwarnings=1
+stayupne=3
+stayupoe=0
+
+[Directories]
+Include=
+Library=
+LinkerScript=
+output=
+
+[Windows]
+0=0000 %S 0 0 796 451 3 0
+
+[CompilerVersion]
+Fixed=

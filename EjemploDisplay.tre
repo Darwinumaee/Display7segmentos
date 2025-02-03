@@ -1,0 +1,12 @@
+ÀÄEjemploDisplay
+   ÀÄMAIN  0/39  Ram=0
+      ÃÄ@cinit1  (Inline)  Ram=0
+      ÃÄ@cinit2  (Inline)  Ram=0
+      ÀÄRET1SEG  0/50  Ram=0
+         ÀÄMOSTRAR  (Inline)  Ram=2
+            ÃÄ@DIV88  0/21  Ram=3
+            ÃÄ@DIV88  0/21  Ram=3
+            ÃÄ@const708  0/14  Ram=0
+            ÃÄ@delay_ms1  0/21  Ram=1
+            ÃÄ@const708  0/14  Ram=0
+            ÀÄ@delay_ms1  0/21  Ram=1
